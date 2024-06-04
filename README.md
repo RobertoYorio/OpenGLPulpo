@@ -1,5 +1,6 @@
 # OpenGLPulpo
 [Muestra del pulpo](https://drive.google.com/file/d/1ScCRNZzKCbJvIqHXEt4lXw_krCqycLbb/view?usp=drive_link)
+
 Este proyecto se basa en crear un maquina de feria con forma de pulpo con openGL. Para logralo he creado un cielo de estrellas con algunas que aparecen y desaparecen, creando un bonito efecto. El pulpo está hecho con triangle strip, usando GeoGebra para diseñar el contorno y obtener las coordenadas x e y. Al hacerlo con el triangle strip, pude añadir una textura al pulpo, donde cada vértice tiene un valor aleatorio de tono azul dentro de un rango.
 
 El movimiento de los brazos forma una elipse. He creado unas escaleras para subir al vagón, que al comienzo de la ejecución se pliegan. Una vez plegadas, el pulpo empieza a moverse. El pulpo gira sobre sí mismo, acelerando y desacelerando.
