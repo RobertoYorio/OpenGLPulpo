@@ -13,6 +13,7 @@ La cámara funciona de la siguiente manera: empieza cerca del suelo, toma altura
 -------------------------------------------------------------------------------------------------
 
 [Octopus Display](https://drive.google.com/file/d/1ScCRNZzKCbJvIqHXEt4lXw_krCqycLbb/view?usp=drive_link)
+
 I have created a sky of stars with some of them appearing and disappearing, creating a nice effect. The octopus is made with triangle strip, using GeoGebra to design the outline and get the x and y coordinates. By doing it with triangle strip, I was able to add a texture to the octopus, where each vertex has a random value of blue hue within a range.
 
 The movement of the arms forms an ellipse. I have created some stairs to climb the wagon, which at the beginning of the execution are folded. Once folded, the octopus begins to move. The octopus rotates on itself, accelerating and decelerating.
