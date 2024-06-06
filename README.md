@@ -1,6 +1,6 @@
 # OpenGLPulpo
 
-![Reademe Image](https://github.com/RobertoYorio/OpenGLPulpo/assets/171447873/a59380df-a44b-4acc-b297-fd52c16b27f4)
+![Reademe Image](https://github.com/RobertoYorio/OpenGLPulpo/blob/main/Readme%20Image.PNG)
 
 [Muestra del pulpo](https://drive.google.com/file/d/1ScCRNZzKCbJvIqHXEt4lXw_krCqycLbb/view?usp=drive_link)
 
